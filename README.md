@@ -17,10 +17,11 @@ Pre-trained Model: Uses a trained logistic regression classifier
 🛠️ Installation
 
 Clone this repository:
+```
+git clone https://github.com/sow-bharani/Smile-Stalker---Image-Smile-Detection-App.git
 
-git clone <https://github.com/sow-bharani/Smile-Stalker---Image-Smile-Detection-App.git>
 cd smile-stalker
-
+```
 Install required dependencies:
 
 pip install streamlit numpy scikit-learn joblib pillow
