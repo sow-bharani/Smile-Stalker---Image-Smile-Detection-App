@@ -78,14 +78,14 @@ Calculates probability of smiling
 Returns binary classification with confidence score
 
 📁 Project Structure
-
+```
 smile-stalker/
 ├── app.py                 # Main Streamlit application
 ├── smile_stalker.pkl     # Pre-trained model (not included in repo)
 ├── scaler.pkl           # Fitted scaler (not included in repo)
 ├── requirements.txt     # Python dependencies
 └── README.md           # Project documentation
-
+```
 🎮 Model Details
 
 Algorithm: Logistic Regression
